@@ -1,6 +1,6 @@
 # S-PROAX-S2
 
-W zadaniach stworzymy sobie model, w którym obsłużymy różne aktuatory w aplikacjach. Oczywiście zasady dodawania zadań dokładnie w analogiczny sposób jak w S1.
+W zadaniach stworzymy sobie model, w którym obsłużymy różne aktuatory w aplikacjach. Oczywiście zasady dodawania zadań dokładnie w analogiczny sposób jak w S1. Jeżeli mielibyście w podobny sposób do zadeklarowania inny przykład - który np. macie aktualnie u klientów - śmiało, możecie zrobić swoje - chętnie takie rozwiązania też zobaczę.
 
 ## ZAD1
 Stwórz ogólną implementację aktuatora - niech ma możliwość ruchu do przodu, do tyłu i zatrzymania.
