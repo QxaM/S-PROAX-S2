@@ -1,0 +1,9 @@
+#CODESYS
+*.bootinfo
+*.bootinfo_guids
+*.compileinfo
+*.tgs
+*.opt
+
+#LibreOffice
+*.odt#
